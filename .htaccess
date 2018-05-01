@@ -1,0 +1,8 @@
+#Hidden Directory Web
+Options All -Indexes
+
+#aktifkan rewrite
+RewriteEngine On
+
+#fungsi halaman
+RewriteRule ^([a-zA-Z0-9\-]+)?$ index.php?nama=$1 [L]
