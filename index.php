@@ -12,6 +12,7 @@ $description = "Mari Berteman di Instagram @nikkoenggaliano";
 
 
 $path = 'image';
+	//image list
 $core = array
 (
 	array('Nayeon','1.jpg','2.jpg','3.jpg'),
