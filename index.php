@@ -1,4 +1,5 @@
 <?php 
+//Define Indentifier
 $site_name = "Callestasia.org";
 $url = $_SERVER['HTTP_HOST'];
 $description = "Mari Berteman di Instagram @nikkoenggaliano";
